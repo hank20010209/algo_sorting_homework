@@ -1,0 +1,151 @@
+Case: 150000
+Run 0 --------------------------------------
+Time elapsed in bubble_sort() is: 241.2874841s
+Time elapsed in insertion_sort() is: 66.6265313s
+Time elapsed in selection_sort() is: 165.1099328s
+Time elapsed in quick_sort() is: 61.4402ms
+Time elapsed in heap_sort() is: 55.9069ms
+Run 1 --------------------------------------
+Time elapsed in bubble_sort() is: 239.3311538s
+Time elapsed in insertion_sort() is: 66.739429s
+Time elapsed in selection_sort() is: 165.8577368s
+Time elapsed in quick_sort() is: 58.9988ms
+Time elapsed in heap_sort() is: 50.9968ms
+Run 2 --------------------------------------
+Time elapsed in bubble_sort() is: 240.9381687s
+Time elapsed in insertion_sort() is: 66.6762186s
+Time elapsed in selection_sort() is: 165.4217251s
+Time elapsed in quick_sort() is: 65.6979ms
+Time elapsed in heap_sort() is: 55.4679ms
+Run 3 --------------------------------------
+Time elapsed in bubble_sort() is: 240.0490231s
+Time elapsed in insertion_sort() is: 67.1876937s
+Time elapsed in selection_sort() is: 164.9401574s
+Time elapsed in quick_sort() is: 66.5696ms
+Time elapsed in heap_sort() is: 52.1789ms
+Run 4 --------------------------------------
+Time elapsed in bubble_sort() is: 240.8648452s
+Time elapsed in insertion_sort() is: 68.7063377s
+Time elapsed in selection_sort() is: 165.2041506s
+Time elapsed in quick_sort() is: 61.4319ms
+Time elapsed in heap_sort() is: 54.6624ms
+Run 5 --------------------------------------
+Time elapsed in bubble_sort() is: 240.3184059s
+Time elapsed in insertion_sort() is: 66.5542895s
+Time elapsed in selection_sort() is: 165.2085258s
+Time elapsed in quick_sort() is: 62.9787ms
+Time elapsed in heap_sort() is: 53.5323ms
+Run 6 --------------------------------------
+Time elapsed in bubble_sort() is: 240.8773602s
+Time elapsed in insertion_sort() is: 66.9999721s
+Time elapsed in selection_sort() is: 165.2851408s
+Time elapsed in quick_sort() is: 68.214ms
+Time elapsed in heap_sort() is: 51.0747ms
+Run 7 --------------------------------------
+Time elapsed in bubble_sort() is: 239.8132465s
+Time elapsed in insertion_sort() is: 66.6976902s
+Time elapsed in selection_sort() is: 165.4959285s
+Time elapsed in quick_sort() is: 65.0277ms
+Time elapsed in heap_sort() is: 54.5156ms
+Run 8 --------------------------------------
+Time elapsed in bubble_sort() is: 240.9554779s
+Time elapsed in insertion_sort() is: 67.0252399s
+Time elapsed in selection_sort() is: 165.2459399s
+Time elapsed in quick_sort() is: 65.7ms
+Time elapsed in heap_sort() is: 53.858ms
+Run 9 --------------------------------------
+Time elapsed in bubble_sort() is: 241.2632143s
+Time elapsed in insertion_sort() is: 66.8957628s
+Time elapsed in selection_sort() is: 165.310928s
+Time elapsed in quick_sort() is: 65.5214ms
+Time elapsed in heap_sort() is: 53.3949ms
+Run 10 --------------------------------------
+Time elapsed in bubble_sort() is: 240.5534744s
+Time elapsed in insertion_sort() is: 67.1735366s
+Time elapsed in selection_sort() is: 165.5963003s
+Time elapsed in quick_sort() is: 64.1283ms
+Time elapsed in heap_sort() is: 56.0731ms
+Run 11 --------------------------------------
+Time elapsed in bubble_sort() is: 240.0015287s
+Time elapsed in insertion_sort() is: 66.5241794s
+Time elapsed in selection_sort() is: 166.9324347s
+Time elapsed in quick_sort() is: 86.1617ms
+Time elapsed in heap_sort() is: 70.557ms
+Run 12 --------------------------------------
+Time elapsed in bubble_sort() is: 240.741005s
+Time elapsed in insertion_sort() is: 68.1991395s
+Time elapsed in selection_sort() is: 177.3841735s
+Time elapsed in quick_sort() is: 59.8337ms
+Time elapsed in heap_sort() is: 57.0216ms
+Run 13 --------------------------------------
+Time elapsed in bubble_sort() is: 240.6770484s
+Time elapsed in insertion_sort() is: 66.7333137s
+Time elapsed in selection_sort() is: 165.6293178s
+Time elapsed in quick_sort() is: 63.9912ms
+Time elapsed in heap_sort() is: 56.0182ms
+Run 14 --------------------------------------
+Time elapsed in bubble_sort() is: 239.9573307s
+Time elapsed in insertion_sort() is: 66.8429462s
+Time elapsed in selection_sort() is: 165.3457813s
+Time elapsed in quick_sort() is: 65.0008ms
+Time elapsed in heap_sort() is: 52.3101ms
+Run 15 --------------------------------------
+Time elapsed in bubble_sort() is: 240.0396537s
+Time elapsed in insertion_sort() is: 67.1888038s
+Time elapsed in selection_sort() is: 165.6606234s
+Time elapsed in quick_sort() is: 60.9187ms
+Time elapsed in heap_sort() is: 55.3587ms
+Run 16 --------------------------------------
+Time elapsed in bubble_sort() is: 239.4889629s
+Time elapsed in insertion_sort() is: 66.6291731s
+Time elapsed in selection_sort() is: 166.0713812s
+Time elapsed in quick_sort() is: 62.4546ms
+Time elapsed in heap_sort() is: 51.2409ms
+Run 17 --------------------------------------
+Time elapsed in bubble_sort() is: 242.0375715s
+Time elapsed in insertion_sort() is: 68.305815s
+Time elapsed in selection_sort() is: 164.9854615s
+Time elapsed in quick_sort() is: 63.7756ms
+Time elapsed in heap_sort() is: 52.2101ms
+Run 18 --------------------------------------
+Time elapsed in bubble_sort() is: 240.3931965s
+Time elapsed in insertion_sort() is: 66.9544814s
+Time elapsed in selection_sort() is: 165.6525585s
+Time elapsed in quick_sort() is: 68.1488ms
+Time elapsed in heap_sort() is: 61.6437ms
+Run 19 --------------------------------------
+Time elapsed in bubble_sort() is: 239.9597392s
+Time elapsed in insertion_sort() is: 67.394216s
+Time elapsed in selection_sort() is: 165.8286136s
+Time elapsed in quick_sort() is: 66.2144ms
+Time elapsed in heap_sort() is: 55.6188ms
+Run 20 --------------------------------------
+Time elapsed in bubble_sort() is: 241.0488029s
+Time elapsed in insertion_sort() is: 66.520605s
+Time elapsed in selection_sort() is: 165.3560402s
+Time elapsed in quick_sort() is: 61.3325ms
+Time elapsed in heap_sort() is: 53.6833ms
+Run 21 --------------------------------------
+Time elapsed in bubble_sort() is: 239.8696867s
+Time elapsed in insertion_sort() is: 66.6550414s
+Time elapsed in selection_sort() is: 165.5368782s
+Time elapsed in quick_sort() is: 62.466ms
+Time elapsed in heap_sort() is: 56.4368ms
+Run 22 --------------------------------------
+Time elapsed in bubble_sort() is: 239.9040693s
+Time elapsed in insertion_sort() is: 67.0586752s
+Time elapsed in selection_sort() is: 164.7879469s
+Time elapsed in quick_sort() is: 65.0243ms
+Time elapsed in heap_sort() is: 54.3602ms
+Run 23 --------------------------------------
+Time elapsed in bubble_sort() is: 240.3809025s
+Time elapsed in insertion_sort() is: 66.4685777s
+Time elapsed in selection_sort() is: 165.3511391s
+Time elapsed in quick_sort() is: 66.8917ms
+Time elapsed in heap_sort() is: 54.1938ms
+Run 24 --------------------------------------
+Time elapsed in bubble_sort() is: 240.2442253s
+Time elapsed in insertion_sort() is: 67.0320382s
+Time elapsed in selection_sort() is: 166.1879367s
+Time elapsed in quick_sort() is: 60.1758ms
+Time elapsed in heap_sort() is: 55.087ms
